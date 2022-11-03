@@ -1,2 +1,2 @@
 # Trade-&-Ahead
-An investment advisory firm needs to group stocks into distinctive segments so they may offer their customers understandable investment options.
+An investment advisory firm needs to segment stock offerings so they may offer their customers understandable investment options.
